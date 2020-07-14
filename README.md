@@ -1,5 +1,11 @@
-# Sites Desenvolvidos com Wordpress
+# Sites Desenvolvidos
 Desenvolvimento de sites com Wordpress para Agências e Empresas.
+
+- Dev Front-end, Trabalho com a parte da aplicação que interage diretamente com o usuário, focando em HTML (linguagem de marcação), CSS (linguagem de estilo) e JavaScript (linguagem de script/programação) e para CSS e JavaScript utilizo algumas bibliotecas e frameworks como: Angular e React.
+- Dev Back-end, desenvolver aplicações sólidas e seguras, focando na parte funcional da aplicação, utilizando linguagens com PHP e NodeJS tudo isso conectado com um banco de dados MySQL ou PostgreSQL.
+- Desenvolvedor de temas e plugins para WordPress.
+
+
 {PHP, Javascript, Html, Css}
 
 ### O Que faço com o tal Wordpress [![](http://jobs.ruah.digital/site.gif)](#)
