@@ -3,6 +3,13 @@ Desenvolvo sites com Wordpress para Agências e Empresas.
 
 - 🔸 Sites, Loja Virtual, Portais, Blogs e LandingPages com WordPress.
 
+**Illo Quimíca**
+> A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
+
+[![](http://jobs.ruah.digital/iilo.png)](http://illo.monaleads.com.br/)
+
+------------
+
 **Oh! Seu Delivery**
 > É uma plataforma de cardápio digital que automatiza, de forma intuitiva, o envio dos pedidos dos clientes para o WhatsApp do negócio/vendedor.
 
@@ -42,15 +49,6 @@ Desenvolvo sites com Wordpress para Agências e Empresas.
 > O Cão Veio Burger iniciou suas atividades em 2015, quando os sócios Jean Wellington e Elisangele Ferreira  viajaram para São Paulo e se apaixonaram por  hambúrgueres de Food Truck, com uma estrutura moderna e produtos de alta qualidade, que na época estavam se tornando um novo nicho de mercado.
 
 [![](http://jobs.ruah.digital/caoveio.png)](https://www.caoveioburger.com.br/)
-
-
-------------
-
-**Illo Quimíca**
-> A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
-
-[![](http://jobs.ruah.digital/iilo.png)](http://illo.monaleads.com.br/)
-
 
 ------------
 
