@@ -1,8 +1,16 @@
 # Sites Desenvolvidos com Wordpress
 Desenvolvo sites com Wordpress para Agências e Empresas.
-[![](http://jobs.ruah.digital/programador.gif)](#)
 
-- 🔸 Sites, Loja Virtual, Portais, Blogs e LandingPages com WordPress.
+### O Que faço com o tal Wordpress
+- 🔸 Sites
+- 🔸 Loja Virtual
+- 🔸 Portais
+- 🔸 Blogs 
+- 🔸 LandingPages
+
+[![](http://jobs.ruah.digital/site.gif)](#)
+
+
 
 **Illo Quimíca**
 > A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
