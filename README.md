@@ -8,7 +8,9 @@ Desenvolvo sites com Wordpress para Agências e Empresas.
 - 🔸 Blogs 
 - 🔸 LandingPages
 
-[![Vamos conversar no WhatsApp](http://jobs.ruah.digital/whatsapp.png "Vamos conversar no WhatsApp")](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F "Vamos conversar no WhatsApp") ##Chama no WhatsApp e vamos conversar!
+[![Vamos conversar no WhatsApp](http://jobs.ruah.digital/whatsapp.png "Vamos conversar no WhatsApp")](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F "Vamos conversar no WhatsApp") Chama no WhatsApp e vamos conversar!
+
+[![](http://jobs.ruah.digital/linkedin.png)](https://www.linkedin.com/in/alexvtelles/) Meu LinkedIn
 
 [![](http://jobs.ruah.digital/site.gif)](#)
 
