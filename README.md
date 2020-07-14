@@ -9,7 +9,7 @@ Desenvolvo sites com Wordpress para Agências e Empresas.
 - 🔸 LandingPages
 
 #### Chama ai e vamos conversar!
-[![](http://jobs.ruah.digital/link.png)](https://www.linkedin.com/in/alexvtelles/) [![](http://jobs.ruah.digital/gmail.png)](mailto:tellesdev@gmail.com) [![](http://jobs.ruah.digital/whats.png)](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F)
+[![](http://jobs.ruah.digital/link.png)](https://www.linkedin.com/in/alexvtelles/) [![](http://jobs.ruah.digital/gmail.png)](mailto:tellesdev@gmail.com) [![](http://jobs.ruah.digital/whtas.png)](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F)
 
 
 [![](http://jobs.ruah.digital/site.gif)](#)
