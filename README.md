@@ -23,3 +23,11 @@
 [![](http://jobs.ruah.digital/bigaton.png)](https://bigaton.adv.br/)
 
 ------------
+
+**Marcelo Bolinha Carnes**
+> Marcelo Conceição – mais conhecido como ”Bolinha” – é consultor empresarial em cortes de carne, com 30 anos de experiência no setor. Antigamente proprietário do tradicional Açougue do Bola com mais de 70 anos em Porto Alegre/RS, hoje comanda, ao lado do sócio Manoel Vargas – o Maneco, a Marcelo Bolinha Carnes, fornecendo cortes para diversos restaurantes e consumidor final. 
+
+[![](http://jobs.ruah.digital/bolinha.png)](https://marcelobolinhacarnes.com.br/)
+
+------------
+
