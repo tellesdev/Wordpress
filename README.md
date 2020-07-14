@@ -31,3 +31,32 @@
 
 ------------
 
+**Cão Veio Burger**
+> O Cão Veio Burger iniciou suas atividades em 2015, quando os sócios Jean Wellington e Elisangele Ferreira  viajaram para São Paulo e se apaixonaram por  hambúrgueres de Food Truck, com uma estrutura moderna e produtos de alta qualidade, que na época estavam se tornando um novo nicho de mercado.
+
+[![](http://jobs.ruah.digital/caoveio.png)](https://www.caoveioburger.com.br/)
+
+
+------------
+
+**Illo Quimíca**
+> A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
+
+[![](http://jobs.ruah.digital/iilo.png)](http://illo.monaleads.com.br/)
+
+
+------------
+
+**Oh! Seu Delivery**
+> É uma plataforma de cardápio digital que automatiza, de forma intuitiva, o envio dos pedidos dos clientes para o WhatsApp do negócio/vendedor.
+
+[![](http://jobs.ruah.digital/ohseudelivery.png)](https://www.ohseudelivery.com.br/)
+
+------------
+
+**Refúgio Açaí**
+> A nossa história começou em 2014, quando os sócios Fabrício Mascarello, Pedro Lavarda e Diego Bernardi trouxeram para a cidade de Erechim (interior do RS) o açaí, produto típico do nordeste, mas ainda não difundido no sul do país.
+
+[![](http://jobs.ruah.digital/refugio.png)](https://refugioacai.com.br/)
+
+
