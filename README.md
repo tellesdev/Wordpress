@@ -1,5 +1,5 @@
 # Sites Desenvolvidos com Wordpress
-Desenvolvo sites com Wordpress para Agências e Empresas.
+Desenvolvimento de sites com Wordpress para Agências e Empresas.
 {PHP, Javascript, Html, Css}
 
 ### O Que faço com o tal Wordpress [![](http://jobs.ruah.digital/site.gif)](#)
