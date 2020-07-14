@@ -1,7 +1,7 @@
 # Sites Desenvolvidos com Wordpress
 Desenvolvo sites com Wordpress para Agências e Empresas.
 
-#### :fa-whatsapp:[ Vamos conversar no Whats](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F " Vamos conversar no Whats")
+#### :fa-whatsapp: [ Vamos conversar no Whats](https://api.whatsapp.com/send?phone=5549998172989&text=Ol%C3%A1!%20Entrei%20no%20Github%2C%20vi%20seu%20trabalho%20vamos%20conversar%3F " Vamos conversar no Whats")
 
 
 ### O Que faço com o tal Wordpress
