@@ -14,16 +14,10 @@ Desenvolvimento de sites com Wordpress para Agências e Empresas.
 
 ## Portfólio
 
-**Plano de Saúde São Camilo**
-> Encontre aqui o cuidado que seus colaboradores merecem. O Plano de Saúde São Camilo conta com os melhores serviços e coberturas para empresas.
+**Refúgio Açaí**
+> A nossa história começou em 2014, quando os sócios Fabrício Mascarello, Pedro Lavarda e Diego Bernardi trouxeram para a cidade de Erechim (interior do RS) o açaí, produto típico do nordeste, mas ainda não difundido no sul do país.
 
-[![](http://jobs.ruah.digital/plano.png)](https://planosaocamiloconcordia.com.br/)
-
-------------
-**Illo Quimíca**
-> A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
-
-[![](http://jobs.ruah.digital/iilo.png)](http://illo.monaleads.com.br/)
+[![](http://jobs.ruah.digital/refugio.png)](https://refugioacai.com.br/)
 
 ------------
 
@@ -69,9 +63,17 @@ Desenvolvimento de sites com Wordpress para Agências e Empresas.
 
 ------------
 
-**Refúgio Açaí**
-> A nossa história começou em 2014, quando os sócios Fabrício Mascarello, Pedro Lavarda e Diego Bernardi trouxeram para a cidade de Erechim (interior do RS) o açaí, produto típico do nordeste, mas ainda não difundido no sul do país.
+**Plano de Saúde São Camilo**
+> Encontre aqui o cuidado que seus colaboradores merecem. O Plano de Saúde São Camilo conta com os melhores serviços e coberturas para empresas.
 
-[![](http://jobs.ruah.digital/refugio.png)](https://refugioacai.com.br/)
+[![](http://jobs.ruah.digital/plano.png)](https://planosaocamiloconcordia.com.br/)
+
+------------
+**Illo Quimíca**
+> A Illo Química iniciou suas atividades em 2004, focada na industrialização de produtos saneantes e domissanitários, atendendo apenas o segmento doméstico e institucional. Com a grande aceitação do mercado, a empresa investiu no desenvolvimento de novos produtos, com itens das linhas automotiva, industrial e agropecuária.
+
+[![](http://jobs.ruah.digital/iilo.png)](http://illo.monaleads.com.br/)
+
+------------
 
 
