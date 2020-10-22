@@ -1,7 +1,7 @@
 # Sites Desenvolvidos
 Sites e Aplicações desenvolvidos para Agências e Empresas.
 
-### O Que faço com o tal Wordpress [![](http://jobs.ruah.digital/site.gif)](#)
+### O Que faço!! [![](http://jobs.ruah.digital/site.gif)](#)
 - 🔸 Sites
 - 🔸 Loja Virtual
 - 🔸 Portais
