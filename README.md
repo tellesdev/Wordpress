@@ -1,5 +1,5 @@
 # Sites Desenvolvidos
-Desenvolvimento de sites com Wordpress para Agências e Empresas.
+Sites e Aplicações desenvolvidos para Agências e Empresas.
 
 ### O Que faço com o tal Wordpress [![](http://jobs.ruah.digital/site.gif)](#)
 - 🔸 Sites
